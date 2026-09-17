@@ -4,3 +4,5 @@ if(idade >= 18):
     print("Você pode dirigir")
 else:
     print("Menor de idade")
+
+print("Fim do programa")
