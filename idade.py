@@ -1,6 +1,6 @@
-idade = 18
+idade = int(input('Digite sua idade: '))
 
 if(idade >= 18): 
     print("Você pode dirigir")
 else:
-    print("menor de idade")
+    print("Menor de idade")
